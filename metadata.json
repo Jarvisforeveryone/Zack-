@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Aira HUD AI Assistant",
+  "description": "A lightweight, Iron Man-inspired AI assistant with offline Llama support, custom wake words, and complete voice-activated device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

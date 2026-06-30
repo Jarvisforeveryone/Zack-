@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Concentric Outer Ring representing Aira Core -->
+    <path
+        android:strokeColor="#00FFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,24 A 30,30 0 1,1 53.9,24" />
+
+    <!-- Fragmented Arc elements -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,34 A 20,20 0 0,1 74,54" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,74 A 20,20 0 0,1 34,54" />
+        
+    <!-- Glowing Center Core circle -->
+    <path
+        android:fillColor="#00FFFF"
+        android:pathData="M 54,46 A 8,8 0 1,1 53.9,46" />
+</vector>

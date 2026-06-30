@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "sample_rate": 22050
+  },
+  "language": {
+    "code": "en-US",
+    "family": "en",
+    "name": "English"
+  }
+}
